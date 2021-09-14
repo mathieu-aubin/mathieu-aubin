@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=mathieu-aubin&color=ff69b4)
 
 <!--
 **mathieu-aubin/mathieu-aubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
